@@ -1,0 +1,27 @@
+.all-jobs-checking-list {
+  display: flex;
+  flex-direction: column;
+}
+.emp-list-type {
+  margin-top: 10px;
+  margin-left: -30px;
+}
+.employment-type {
+  line-height: 1.8;
+}
+.emp-type-heading-emp {
+  color: #ffffff;
+  font-size: 17px;
+  font-family: roboto;
+  margin-left: 12px;
+}
+.emp-type-heading-sal {
+  color: #ffffff;
+  font-size: 17px;
+  font-family: roboto;
+  margin-left: 12px;
+}
+
+.employeTypeClassName {
+  color: #6366f1;
+}

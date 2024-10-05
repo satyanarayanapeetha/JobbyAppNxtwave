@@ -1,0 +1,16 @@
+.notfound-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #272727;
+  height: 100vh;
+}
+.notfound-heading {
+  color: #ffffff;
+  font-family: roboto;
+}
+.notfound-dis{
+  color: #cbd5e1;
+  font-family: roboto;
+}

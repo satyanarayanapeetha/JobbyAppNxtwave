@@ -1,0 +1,78 @@
+.all-jobs-container {
+  display: flex;
+  padding: 35px;
+}
+.min-container {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.label {
+  color: #ffffff;
+  margin-left: 5px;
+  font-family: roboto;
+  font-size: 15px;
+}
+.search-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: -10px;
+}
+.search-contant {
+  display: flex;
+  justify-content: space-between;
+  background-color: transparent;
+  border: 1px solid #475569;
+  border-radius: 4px;
+  margin-top: 43px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+  padding: 0px;
+  height: 38px;
+  width: 350px;
+}
+.search-input {
+  color: #ffffff;
+  background-color: transparent;
+  margin: 9px 10px;
+  height: 20px;
+  width: 70%;
+  padding: 5px;
+  outline: none;
+  border: none;
+}
+.search-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.search-icon {
+  background-color: #202020;
+  padding: 8px;
+  height: 38px;
+  width: 50px;
+  margin-right: -6px;
+}
+.no-jobs-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.no-job-img {
+  height: 65%;
+  width: 65%;
+  margin-top: 20px;
+}
+.no-job-heading {
+  font-family: roboto;
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 500;
+}
+.no-job-desicrptions{
+  font-size: 15px;
+  font-family: roboto;
+  color: #ffffff;
+}

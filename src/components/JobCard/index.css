@@ -1,0 +1,90 @@
+.job-list-items-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #272727;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.job-list-container {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.logo-container {
+  display: flex;
+  margin-bottom: 10px;
+}
+.company-img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+.desingnation {
+  font-family: roboto;
+  font-size: 15px;
+  color: #f1f5f9;
+  margin-top: 6px;
+}
+.rating-container {
+  display: flex;
+  flex-direction: row;
+}
+.star {
+  color: #fbbf24;
+}
+.rating {
+  font-size: 15px;
+  color: #f1f5f9;
+  font-family: roboto;
+  margin-top: 1px;
+  margin-left: 2px;
+  font-weight: 500;
+}
+.sal-location-content {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.salary-icons {
+  display: flex;
+  /* flex-direction: row; */
+  margin-right: 20px;
+}
+.icons-names {
+  color: #f8fafc;
+  font-family: roboto;
+  font-size: 10px;
+  margin-top: -1px;
+  margin-left: 10px;
+}
+.sal-mini-container {
+  display: flex;
+}
+.salary-perAnnum {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: roboto;
+  font-weight: 500;
+  margin-top: -1px;
+}
+.horizantal {
+  color: #ffffff;
+  width: 100%;
+}
+.job-heading {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: roboto;
+  margin-top: 10px;
+  font-weight: 500;
+}
+.job-discription {
+  color: #f8fafc;
+  font-size: 15px;
+  font-family: roboto;
+}
+.link-item {
+  outline: none;
+}
